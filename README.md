@@ -1,1 +1,2 @@
-# TinDog-Mobile-Friendly-Resonsive-website
+# TinDog-Mobile-Friendly-Responsive-website
+Using bootstrap concepts
